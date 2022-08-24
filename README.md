@@ -10,6 +10,9 @@ I chose to create this project from scratch as part of my MSc degree in Data Sci
 
 
 After having tested a few models, the best performance was from GradientBoostingRegressor prediction model which is chosen for the implementation. 
+
+The salary range was $10000 - $250000
+
 Scores: 
 
 Root Mean Squared Error: $22650.03
