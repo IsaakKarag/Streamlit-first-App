@@ -1,6 +1,6 @@
 # Streamlit-first-App
 
-Welcome to my Salary Prediction Webb App! 
+## Welcome to my Salary Prediction Webb App! 
 
 ### Check my app here https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/
 
