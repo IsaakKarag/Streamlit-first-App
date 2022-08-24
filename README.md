@@ -21,4 +21,6 @@ Mean Absolut Percentage Error: 27%
 
 R squared: 0.51
 
+Due to the limited records of some small countries the predictions on them might be invalid.  
+
 You can navigate through "Explore or Predict" dropdown in order to explore the respective visualizations! 
