@@ -2,7 +2,9 @@
 
 Welcome to my Salary Prediction Webb App! 
 
-This is my first Streamlit Web Application for salary prediction in IT sector across Europe based on stackoverflow's dataset regarding 2021.
+Check my app [here(https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)]
+
+This is my first Streamlit Web Application for developers salary prediction across Europe based on stackoverflow's survey dataset regarding 2021.
 
 I chose to create this project from scratch as part of my MSc degree in Data Science dissertation/thesis. 
 
