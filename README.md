@@ -7,7 +7,7 @@ This is my first Streamlit Web Application for salary prediction in IT sector ac
 I chose to create this project from scratch as part of my MSc degree in Data Science dissertation/thesis. 
 
 
-After having tested a few models, the best performance was from GradientBoostingRegressor prediction model which is choosen for the implementation. 
+After having tested a few models, the best performance was from GradientBoostingRegressor prediction model which is chosen for the implementation. 
 Scores: 
 
 Root Mean Squared Error: $22650.03
