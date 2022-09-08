@@ -2,6 +2,12 @@
 
 ## Welcome to my Salary Prediction Webb App! 
 
+
+![Screenshot from 2022-08-23 09-49-07](https://user-images.githubusercontent.com/93320620/189075771-919fecac-ae3a-4a4e-8068-783c520be50b.png)
+
+
+
+
 ### Check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)
 
 This is my first Streamlit Web Application for developers salary prediction across Europe based on stackoverflow's survey dataset regarding 2021.
