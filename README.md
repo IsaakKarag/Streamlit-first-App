@@ -8,7 +8,7 @@
 
 
 
-### Check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)
+### Check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)!
 
 This is my first Streamlit Web Application for developers salary prediction across Europe based on stackoverflow's survey dataset regarding 2021. The app was deployed on Streamlit's cloud service.
 
