@@ -8,7 +8,7 @@
 
 
 
-### Check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)
+### You can check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)
 
 This is my first Streamlit Web Application for developers salary prediction across Europe based on stackoverflow's survey dataset regarding 2021. The app was deployed on Streamlit's cloud service.
 
@@ -35,8 +35,6 @@ You can navigate through "Explore or Predict" drop-down in order to explore the 
 
 ![Screenshot from 2022-09-13 13-52-27](https://user-images.githubusercontent.com/93320620/189883361-c4c25737-b7ec-487b-9699-6aeb9d2ccdc0.png)
 
-```
-pip install pandas
-```
+
 
 
